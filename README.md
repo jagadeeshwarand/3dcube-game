@@ -9,11 +9,13 @@ Features:
   5)  Color Themes: Select from a variety of color schemes like Cube, Erno, Dust, Camo, and Rain.
   6)  Real-Time Stats: Track your best time, worst time, total solves, and averages for 5, 12, and 25 solves.
   7)  Interactive UI: Intuitive controls and buttons for stats, preferences, themes, and resets.
+     
 Technologies Used:
   HTML5: For structuring the game interface.
   CSS3: For styling and themes.
   JavaScript: For game logic and interactivity.
   Three.js: For rendering 3D cube animations.
+  
 How to Play:
   1)  Open the game in your browser.
   2)  Double-tap to start the game.
